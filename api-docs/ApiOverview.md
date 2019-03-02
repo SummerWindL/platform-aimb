@@ -1,5 +1,7 @@
 # API Overview
 
+**新增71034通用查询确诊患者列表接口**
+
 ## 1.HTTP 协议
     1.1 HTTP接口调用说明
 >使用HTTPS POST请求。
